@@ -1,0 +1,13 @@
+How to Execute the Program:
+
+Method 1 (Using an IDE):
+1. Copy the program into an IDE such as Eclipse.
+2. Run it using the IDE.
+
+Method 2 (Using Command Prompt):
+1. Save the file in any folder
+2. Enter folder and Shift + Right click in the folder
+3. From the drop down select "Open Command Window Here"
+4. Type set path=%path%;'path of bin folder in jdk directory'
+5. Type "javac Queens.java"
+6. Type "java Queens
